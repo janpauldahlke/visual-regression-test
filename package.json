@@ -1,0 +1,19 @@
+{
+  "name": "vrt",
+  "version": "0.0.1",
+  "description": "foo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdahlke",
+  "license": "ISC",
+  "dependencies": {
+    "bash-color": "0.0.4",
+    "figlet": "^1.1.2",
+    "gm": "^1.22.0",
+    "line-by-line": "^0.1.4",
+    "phantom": "^2.1.1",
+    "walk": "^2.3.9"
+  }
+}

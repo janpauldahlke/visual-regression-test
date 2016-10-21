@@ -1,0 +1,5 @@
+http://localhost/index.html
+http://localhost/ourwork.html
+http://localhost/testimonials.html
+http://localhost/projects.html
+http://localhost/contact.html
